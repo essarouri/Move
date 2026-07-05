@@ -4,7 +4,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python\&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 Move is a lightweight Windows application that prevents your computer from sleeping by using the native Windows **SetThreadExecutionState** API.
 
