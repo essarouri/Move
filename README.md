@@ -40,15 +40,15 @@ Unlike traditional mouse jiggler applications, **Move does not simulate mouse mo
 
 ### Active
 
-![Active Screenshot](tray-active.png)
+![Active Screenshot](screenshots/tray-active.png)
 
 ### Inactive
 
-![Inactive Screenshot](tray-inactive.png)
+![Inactive Screenshot](screenshots/tray-inactive.png)
 
 ### Timer Menu
 
-![Timer Menu](timer-menu.png)
+![Timer Menu](screenshots/timer-menu.png)
 
 ---
 
