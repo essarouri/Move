@@ -217,20 +217,6 @@ Move is useful for:
 
 ---
 
-## 🚀 Roadmap
-
-Future improvements may include:
-
-* Auto-start with Windows
-* Portable configuration
-* Custom timer durations
-* Dark/Light tray icons
-* Desktop notifications
-* Automatic update checker
-* Localization support
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
