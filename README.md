@@ -36,8 +36,6 @@ Unlike traditional mouse jiggler applications, **Move does not simulate mouse mo
 
 ## 📸 Screenshots
 
-> *(Add screenshots here after creating a GitHub release.)*
-
 ### Active
 
 ![Active Screenshot](screenshots/tray-active.png)
