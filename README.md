@@ -67,7 +67,7 @@ No installation is required—simply run the executable.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Move.git
+git clone https://github.com/essarouri/Move.git
 cd Move
 ```
 
